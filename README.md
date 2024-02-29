@@ -1,7 +1,7 @@
 # sorting_algorithms
 ________
 
-This project implements various sorting algorithms in C++. It provides the ability to sort arrays of integers in either ascending or descending order.
+This project implements various sorting algorithms in C. It provides the ability to sort arrays of integers in either ascending or descending order.
 
 <h2>Features:</h2>
 
